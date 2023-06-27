@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+a {
+    font-weight: bold;
+    color:brown;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
